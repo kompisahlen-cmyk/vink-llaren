@@ -1,8 +1,8 @@
 {
-  "lastCheck": "2026-02-27T06:42:00",
+  "lastCheck": "2026-02-27T13:29:00+01:00",
   "fileExists": false,
   "fileSize": null,
   "filePath": "~/vinkallaren/app/build/outputs/apk/debug/app-debug.apk",
-  "status": "VÄNTAR PÅ BYGGE",
-  "message": "Cron-check kl 06:42 - APK-filen finns fortfarande inte. Fortsatt övervakning."
+  "status": "VÄNTAR PÅ BYGGE - Java saknas",
+  "message": "Cron-check kl 13:29 - APK-filen finns inte. Java är inte installerat, automatisk byggning inte möjlig. Väntar på manuell build eller Java-installation."
 }
