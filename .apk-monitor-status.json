@@ -1,9 +1,13 @@
 {
-  "lastCheck": "2026-02-27T14:41:00+01:00",
+  "lastCheck": "2026-02-27T23:23:00+01:00",
   "fileFound": false,
   "filePath": "~/vinkallaren/app/build/outputs/apk/debug/app-debug.apk",
   "status": "waiting",
-  "note": "Cron-kontroll utförd 14:41. Fil finns inte än. Väntar på att APK byggs.",
-  "checkCount": 24,
-  "fixesApplied": ["numfmt → bc", "md5sum → md5", "felhantering för Desktop-kopia", "bättre loggning"]
+  "note": "Cron check (23:23) - ingen APK hittad. Fortsätter bevaka.",
+  "checkCount": 42,
+  "fileSize": null,
+  "copied": false,
+  "mailed": false,
+  "nextCheck": "2026-02-27T23:33:00+01:00",
+  "cronReporter": "Kompis Ahlén checked at 2026-02-27 23:23"
 }
