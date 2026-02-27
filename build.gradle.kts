@@ -8,6 +8,6 @@ plugins {
 
 buildscript {
     extra["compose_version"] = "1.6.1"
-    extra["room_version"] = "2.6.1"
+    extra["room_version"] = "2.5.2"
     extra["lifecycle_version"] = "2.7.0"
 }
