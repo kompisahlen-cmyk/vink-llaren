@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vinkällaren</string>
+    <string name="scan_label">Skanna etikett</string>
+    <string name="add_wine">Lägg till vin</string>
+    <string name="wine_list">Dina viner</string>
+    <string name="search">Sök</string>
+    <string name="settings">Inställningar</string>
+    <string name="ready_to_drink">Redo att dricka</string>
+    <string name="wine_detail">Vin</string>
+</resources>

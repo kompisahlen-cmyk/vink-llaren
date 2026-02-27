@@ -1,0 +1,65 @@
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+*.iml
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/misc.xml
+.DS_Store
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+.cxx/
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+
+# APK files (we build these in CI)
+*.apk
+*.ap_
+*.aab
+
+# Log files
+*.log
+
+# Build outputs
+/captures
+/output.json
+
+# NDK
+obj/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# OS files
+Thumbs.db
+
+# Application-specific
+*.apk.monitor
+certs/

@@ -1,0 +1,9 @@
+{
+  "lastCheck": "2026-02-27T12:21:00+01:00",
+  "fileFound": false,
+  "filePath": "~/vinkallaren/app/build/outputs/apk/debug/app-debug.apk",
+  "status": "waiting",
+  "note": "Cron-kontroll utförd. Fil finns inte än. Väntar på att APK byggs.",
+  "checkCount": 23,
+  "fixesApplied": ["numfmt → bc", "md5sum → md5", "felhantering för Desktop-kopia", "bättre loggning"]
+}
